@@ -1,5 +1,5 @@
 # Research activities | Sophie Dowson
-### A collection of neuroscience, sleep, breathing, neuroimaging, cognition based projects 
+### A collection of projects 
 
 ## Degree research projects
 ### MSc Neuroscience | Sleep and Brain Plasticity Centre, King's College London | 2024
