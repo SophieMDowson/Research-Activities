@@ -1,4 +1,3 @@
-# Research activities | Sophie Dowson
 ### A collection of projects 
 
 ## Degree research projects
@@ -13,7 +12,7 @@
 - Project Grade: 1st class honours
 - Project Title: The effect of open-minded, and focused attention meditation on multitasking.
 
-## Research activities
+## Research collaborations
 ### Research Collaborator | Health and Human Performance Foundation, Los Angeles, CA, 2025
 - Conducting a systematic review into the effect of breathing interventions on brain activiy and cognition
   
