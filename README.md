@@ -1,4 +1,5 @@
-### A collection of projects
+# A collection of projects
+Neuroscience | Sleep disorders | Neuroimaging|  Breathing | Cognition | Psychology 
 
 ## Degree research projects
 ### MSc Neuroscience | Sleep and Brain Plasticity Centre, King's College London, 2024
@@ -10,7 +11,8 @@
   
 ### BSc Psychology | Brunel University London, 2019
 - Project Grade: 1st class honours
-- Project Title: The effect of open-minded, and focused attention meditation on multitasking.
+- Project Title: The effect of open-minded, and focused attention meditation on dual-task costs.
+  
 
 ## Research collaborations
 ### Research Collaborator | Health and Human Performance Foundation, Los Angeles, CA, 2025
