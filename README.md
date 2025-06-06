@@ -1,4 +1,4 @@
-## A collection of projects
+
 Neuroscience | Sleep disorders | Neuroimaging |  Breathing | Cognition | Psychology 
 
 ## Degree research projects
