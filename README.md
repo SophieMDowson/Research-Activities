@@ -1,5 +1,5 @@
-# Research-Activities | Sophie Dowson
-## Neuroscience | Sleep | Breathing | Performance 
+# Research activities | Sophie Dowson
+### A collection of neuroscience, sleep, breathing, neuroimaging, cognition based projects 
 
 ## Degree research projects
 ### MSc Neuroscience | Sleep and Brain Plasticity Centre, King's College London | 2024
@@ -16,6 +16,7 @@
 ## Research activities
 ### Research Collaborator | Health and Human Performance Foundation, Los Angeles, CA | 2025
 - Conducting a systematic review into the effect of breathing interventions on brain activiy and cognition
+  
 ### Research Assistant | Centre for Cognitive and Clinical Neuroscience, Brunel University London | 2025
 - Research Pertaining to the protective factor against depression
 - Assisting in EEG data collection and analysis
