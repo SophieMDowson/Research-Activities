@@ -1,4 +1,5 @@
 ### A collection of projects
+![My logo](assets/img/logo.png)
 ## Degree research projects
 ### MSc Neuroscience | Sleep and Brain Plasticity Centre, King's College London, 2024
 - Project Grade: Distinction (82/100)
