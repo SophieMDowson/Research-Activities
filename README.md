@@ -3,7 +3,7 @@ Neuroscience | Sleep disorders | Neuroimaging | Breathing | Cognition | Psycholo
 
 ## Degree research projects
 ### MSc Neuroscience | Sleep and Brain Plasticity Centre, King's College London, 2024
-- Project Grade: Distinction (83/100)
+- Project Grade: Distinction (82/100)
 - Project Title: Obstructive Sleep Apnoea and neuropsychiatric symptoms: sleep spindle characteristics
 - Thesis combined a systematic review and large scale data-analysis 
 - Conducted a systematic review using results yeilded from three databases
